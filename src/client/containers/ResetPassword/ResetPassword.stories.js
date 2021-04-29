@@ -1,10 +1,10 @@
-import React from 'react';
-import ResetPassword from './index';
+// import React from 'react';
+// import ResetPassword from './index';
 
-export default { title: 'Containers / Reset password' };
+// export default { title: 'Containers / Reset password' };
 
-export const Component = () => (
-  <>
-    <ResetPassword />
-  </>
-);
+// export const Component = () => (
+//   <>
+//     <ResetPassword />
+//   </>
+// );
